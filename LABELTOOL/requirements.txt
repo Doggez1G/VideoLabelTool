@@ -1,0 +1,10 @@
+PyQt6>=6.4.0
+opencv-python>=4.8.0
+numpy>=1.24.0
+pandas>=2.0.0
+openpyxl>=3.1.0
+torch>=2.0.0
+easyocr>=1.7.0
+av>=11.0.0
+pyaudio>=0.2.13
+# pytesseract>=0.3.10  # 可选，如需使用Tesseract请取消注释
